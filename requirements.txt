@@ -1,0 +1,12 @@
+streamlit==1.57.0
+fastapi==0.136.1
+uvicorn==0.46.0
+requests==2.33.1
+firebase-admin==7.4.0
+Pyrebase4==4.9.0
+pydantic==2.13.3
+transformers==5.7.0
+torch==2.11.0
+sacremoses==0.1.1
+sentencepiece==0.2.1
+python-multipart==0.0.27
