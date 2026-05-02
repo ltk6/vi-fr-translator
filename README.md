@@ -33,4 +33,4 @@ python -m uvicorn backend.app.main:app --reload --port 8000
 ```
 
 ## 5. Đường dẫn đến video demo
-* Link: ???
+* Link: https://drive.google.com/file/d/1WY_xq2wIspha0iiKED9yCq0w_gPVT_Xk/view?usp=sharing
